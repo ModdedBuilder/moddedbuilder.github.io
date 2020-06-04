@@ -1,0 +1,11 @@
+{
+    "name": "Pwnguin Repo",
+    "description": "Tweaks and Themes made with love. ❤️",
+    "tint": "#C70",
+    "cname": "moddedbuilder.github.io",
+    "maintainer": {
+        "name": "Adam",
+        "email": "reluctancy17@outlook.com"
+    },
+    "automatic_git": "true"
+}
