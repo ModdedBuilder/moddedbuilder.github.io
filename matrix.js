@@ -1,12 +1,6 @@
-// # For use with Übersicht ==> http://tracesof.net/uebersicht/
-// # Coded by Porco-Rosso ==> https://github.com/Porco-Rosso
-// # from Stereostance.com
-// # v1.0.0
-// # GNU GPL V2
-
 command: "",
 
-refreshFrequency: 138000,
+refreshFrequency: 69000,
 
 render: function (output) {
   return "<iframe width=\"1980\" height=\"1250\" src=\"matrix.widget/Matrix.html\" frameborder=\"0\" allowfullscreen></iframe>";
